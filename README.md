@@ -1,16 +1,38 @@
-# taskmate
+# TaskMate - A To-Do App with API Integration demonstration
 
-A new Flutter project.
+**TaskMate** is a simple and efficient to-do app built with Flutter. It allows users to add and delete tasks, as well as demonstrates API integration.
 
-## Getting Started
+## Features
+- Add and delete tasks.
+- API integration to showcase the power of RESTful APIs.
+- Cross-platform (works on Android and iOS).
 
-This project is a starting point for a Flutter application.
+## Requirements
+Before you can run this app, ensure you have the following installed on your machine:
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Dart SDK**: Dart comes bundled with Flutter, so you don't need to install it separately.
+- **Android Studio** or **VS Code** for development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. **Clone the Repository**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+First, clone this repository to your local machine:
+git clone https://github.com/yourusername/taskmate.git
+
+### 2. **Navigate to project directory**
+
+cd taskmate
+
+### 3. **Run the following command to install the Flutter dependencies:**
+
+flutter pub get
+
+### 3. **Run the app with the following command**
+
+flutter run
+
+```bash
+
+
+
+
